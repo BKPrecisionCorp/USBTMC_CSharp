@@ -1,0 +1,77 @@
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\USBTMC project.exe.config
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.csproj.ResolveComReference.cache
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.csprojResolveAssemblyReference.cache
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC_project.Form1.resources
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC_project.Properties.Resources.resources
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.csproj.GenerateResource.Cache
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\USBTMC project.exe
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\USBTMC project.pdb
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.exe
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.pdb
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.Common.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\Ivi.Visa.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.Common.xml
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\bin\Debug\Ivi.Visa.xml
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.csproj.USBTMC project.exe.config
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\bin\Debug\USBTMC project.exe.config
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.csproj.ResolveComReference.cache
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.exe
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.pdb
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.csprojResolveAssemblyReference.cache
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.csproj.USBTMC project.exe.config
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC_project.Form1.resources
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC_project.Properties.Resources.resources
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\obj\Debug\USBTMC project.csproj.GenerateResource.Cache
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\bin\Debug\USBTMC project.exe
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\bin\Debug\USBTMC project.pdb
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\bin\Debug\Ivi.Visa.dll
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\Don Betio\Dropbox\USBTMC project\USBTMC project\bin\Debug\Ivi.Visa.xml
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\USBTMC project.exe.config
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\obj\Debug\USBTMC project.csproj.ResolveComReference.cache
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\obj\Debug\USBTMC project.exe
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\obj\Debug\USBTMC project.pdb
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\USBTMC project.exe
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\USBTMC project.pdb
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\NationalInstruments.Common.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\Ivi.Visa.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\NationalInstruments.Common.xml
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\Ivi.Visa.xml
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\obj\Debug\USBTMC project.csproj.USBTMC project.exe.config
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\obj\Debug\USBTMC_project.Form1.resources
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\obj\Debug\USBTMC_project.Properties.Resources.resources
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\obj\Debug\USBTMC project.csproj.GenerateResource.Cache
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\USBTMC project.exe.manifest
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\bin\Debug\GlobMgr.dll
+C:\Users\eamezquita\Dropbox\USBTMC project\USBTMC with class\USBTMC project\obj\Debug\USBTMC project.exe.manifest
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\USBTMC project.exe.config
+M:\Users\Einar\projects 2017\USBTMC project\obj\Debug\USBTMC project.csproj.ResolveComReference.cache
+M:\Users\Einar\projects 2017\USBTMC project\obj\Debug\USBTMC project.exe
+M:\Users\Einar\projects 2017\USBTMC project\obj\Debug\USBTMC project.pdb
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\USBTMC project.exe
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\USBTMC project.pdb
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\NationalInstruments.Common.dll
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\NationalInstruments.Visa.dll
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\NationalInstruments.MStudioCLM.dll
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\Ivi.Visa.dll
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\NationalInstruments.Common.xml
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\NationalInstruments.Visa.xml
+M:\Users\Einar\projects 2017\USBTMC project\bin\Debug\Ivi.Visa.xml
+M:\Users\Einar\projects 2017\USBTMC project\obj\Debug\USBTMC project.csprojResolveAssemblyReference.cache
+M:\Users\Einar\projects 2017\USBTMC project\obj\Debug\USBTMC project.csproj.USBTMC project.exe.config
+M:\Users\Einar\projects 2017\USBTMC project\obj\Debug\USBTMC_project.Form1.resources
+M:\Users\Einar\projects 2017\USBTMC project\obj\Debug\USBTMC_project.Properties.Resources.resources
+M:\Users\Einar\projects 2017\USBTMC project\obj\Debug\USBTMC project.csproj.GenerateResource.Cache
